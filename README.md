@@ -1,6 +1,4 @@
-# Ark2
 
-Analice and correct this code.
 ServerAdminPassword=passwort
 ServerGameLog=1
 AdminLogging=true
